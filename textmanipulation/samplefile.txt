@@ -1,0 +1,2 @@
+Now this file is overwriten by this text with this operator > 
+This text is appended with this operator >> 
